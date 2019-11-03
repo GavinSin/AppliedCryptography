@@ -1,0 +1,46 @@
+2019-08-12 19:06:06,503 - handle_retrieval - s88888 request to retrieve payload of ST2504 from server
+2019-08-12 19:06:06,503 - handle_retrieval - s88888 is rejected.
+2019-08-12 19:06:06,516 - handle_retrieval - s88888 received rejected header
+2019-08-12 19:06:54,810 - handle_retrieval - s23456 request to retrieve payload of ST2504 from server
+2019-08-12 19:06:54,827 - handle_retrieval - s23456 received accept header
+2019-08-12 19:11:35,880 - handle_retrieval - s23456 request to retrieve payload of ST2504 from server
+2019-08-12 19:11:35,895 - handle_retrieval - s23456 received accept header
+2019-08-12 19:23:21,689 - handle_retrieval - s88888 request to retrieve payload of ST2504 from server
+2019-08-12 19:23:21,689 - handle_retrieval - s88888 is rejected.
+2019-08-12 19:23:21,701 - handle_retrieval - s88888 received rejected header
+2019-08-12 19:23:44,235 - handle_retrieval - s23456 request to retrieve payload of ST2504 from server
+2019-08-12 19:23:44,250 - handle_retrieval - s23456 received accept header
+2019-08-12 19:23:46,893 - handle_retrieval - s23456 retrieved payload
+2019-08-12 19:30:20,461 - handle - Received an invalid content from 127.0.0.1:41904
+2019-08-12 19:32:39,401 - handle - Received an invalid content from 127.0.0.1:41906
+2019-08-12 19:35:21,880 - handle_get_payload_listing - s23456 is requesting to retrieve his listing
+2019-08-12 19:35:21,895 - handle_get_payload_listing - s23456 received accept header
+2019-08-12 19:35:21,907 - handle_get_payload_listing - s23456 retrieved list
+2019-08-12 19:35:38,314 - handle_retrieval - s23456 request to retrieve payload of ST2504 from server
+2019-08-12 19:35:38,329 - handle_retrieval - s23456 received accept header
+2019-08-12 19:35:40,975 - handle_retrieval - s23456 retrieved payload
+2019-08-12 19:36:19,004 - handle_upload - s88888 request to upload payload of ST2504 to server.
+2019-08-12 19:36:21,663 - handle_upload - s88888 has uploaded files into server successfully!
+2019-08-12 19:36:48,138 - handle_retrieval - s88888 request to retrieve payload of ST2504 from server
+2019-08-12 19:36:48,138 - handle_retrieval - s88888 is rejected.
+2019-08-12 19:36:48,151 - handle_retrieval - s88888 received rejected header
+2019-08-12 19:37:09,253 - handle_get_payload_listing - s88888 is requesting to retrieve his listing
+2019-08-12 19:37:09,267 - handle_get_payload_listing - s88888 received accept header
+2019-08-12 19:37:09,281 - handle_get_payload_listing - s88888 retrieved list
+2019-08-12 20:40:45,628 - handle_get_payload_listing - s23456 is requesting to retrieve his listing
+2019-08-12 20:40:45,644 - handle_get_payload_listing - s23456 received accept header
+2019-08-12 20:40:45,644 - handle_get_payload_listing - s23456 retrieved list
+2019-08-12 20:41:06,734 - handle_get_payload_listing - s23456 is requesting to retrieve his listing
+2019-08-12 20:41:06,748 - handle_get_payload_listing - s23456 received accept header
+2019-08-12 20:41:06,759 - handle_get_payload_listing - s23456 retrieved list
+2019-08-12 20:41:21,810 - handle_retrieval - s23456 request to retrieve payload of ST2504 from server
+2019-08-12 20:41:21,826 - handle_retrieval - s23456 received accept header
+2019-08-12 20:41:24,483 - handle_retrieval - s23456 retrieved payload
+2019-08-12 20:43:29,501 - handle_retrieval - s88888 request to retrieve payload of ST2504 from server
+2019-08-12 20:43:29,501 - handle_retrieval - s88888 is rejected.
+2019-08-12 20:43:29,515 - handle_retrieval - s88888 received rejected header
+2019-08-12 20:44:06,130 - handle_get_payload_listing - s88888 is requesting to retrieve his listing
+2019-08-12 20:44:06,143 - handle_get_payload_listing - s88888 received accept header
+2019-08-12 20:44:06,155 - handle_get_payload_listing - s88888 retrieved list
+2019-08-12 20:44:37,596 - handle_upload - s88888 request to upload payload of ST2504 to server.
+2019-08-12 20:44:40,238 - handle_upload - s88888 has uploaded files into server successfully!

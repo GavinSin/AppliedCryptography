@@ -1,0 +1,38 @@
+File content:
+
+META.info  - Pre-defined configuration file to keep the 
+		  default exam_client parameters for the 
+		  soc examination owner.
+
+readme.1st - this file.
+
+
+How to start the exam_client in this folder:
+
+To review or update the client meta data:
+
+
+../exam_client.py -i 
+
+or
+
+python3 ../exam_client.py -i
+
+To list the content of the examination repository:
+
+../exam_client.py -L 
+
+or
+
+python3 ../exam_client.py -L
+
+To retrieve an examination payload from the repository:
+
+../exam_client.py -r
+
+or
+
+python3 ../exam_client.py -r
+
+
+--- That's all ---

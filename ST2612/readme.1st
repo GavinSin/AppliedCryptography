@@ -1,0 +1,48 @@
+File content:
+
+META.info  - 	Pre-defined configuration file to keep the 
+		default exam_client parameters for the 
+		ST2612 Examiner.
+
+AY20132014S2_ST2612_Exam.v1.pdf  - 	
+		A sample ST2612 examination question paper to
+		be uploaded to the examination repository 
+		system.
+
+AY20132014S2_ST2612_Sol.v1.pdf  - 	
+		A sample ST2612 examination solution to
+		be uploaded to the examination repository 
+		system.
+
+readme.1st	: this file.
+
+
+How to start the exam_client in this folder:
+
+To review or update the client Meta data:
+
+../exam_client.py -i 
+
+or
+
+python3 ../exam_client.py -i
+
+To list the content of the examination repository:
+
+../exam_client.py -L 
+
+or
+
+python3 ../exam_client.py -L
+
+To upload the ST2612 examination payload to the repository:
+
+../exam_client.py -u
+
+or
+
+python3 ../exam_client.py -u
+
+
+
+--- That's all---

@@ -1,0 +1,32 @@
+File Content:
+exam_client.py - python source of exam client.
+		 The client program should be executed
+		 from any one of the follwing sub folder:
+		 ST2504 , ST2612  and soc_admin 
+exam_util.py -   python source of a common module file used
+		 by exam_client.py and exam_server.py
+
+readme.1st   -   This file.
+
+sub folders:
+
+ST2504 :	Contains the examination payload of ST2504.
+		It is the working directory for the ST2504
+		examiner to upload the payload to the exam
+		repository server. 
+
+ST2612 :	Contains the examination payload of ST2612.
+		It is the working directory for the ST2612
+		examiner to upload the payload to the exam
+		repository server. 
+
+soc_admin :	It is the working directory for a SOC examination 
+		administrator to list and retreive  payload(s) from 
+		the exam repository server. 
+
+server:		Contains the exam server program source.
+		It is the working directory for the examination 
+		repository owner.
+
+
+--- That's all ---

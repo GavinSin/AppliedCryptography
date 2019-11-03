@@ -1,0 +1,19 @@
+File content:
+
+exam_server.py	- The exam repository server source codes.
+		  Examination repository owner executes the server in this
+		  folder.
+		  To start the server program
+		  ./exam_server.py
+		  or 
+		  python3 exam_server.py
+
+Host_META.info  - Pre-defined configuration file to keep the 
+		  default server startup parameters.
+		  The server program will prompt for the Host meta data
+		  at the beginning of each run.
+
+readme.1st	: this file.
+
+
+--- That's all ---
